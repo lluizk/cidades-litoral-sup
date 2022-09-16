@@ -1,0 +1,21 @@
+﻿System.Console.WriteLine("Cidades do litoral sul de SP:");
+System.Console.Write("(pressione qualquer tecla para continuar...)");
+Console.ReadKey();
+System.Console.WriteLine();
+
+System.Console.WriteLine("Ubatuba.");
+Thread.Sleep(1000);
+System.Console.WriteLine("Caraguatatuba.");
+Thread.Sleep(1000);
+System.Console.WriteLine("Ilhabela.");
+Thread.Sleep(1000);
+System.Console.WriteLine("São Sebastião.");
+Thread.Sleep(1000);
+System.Console.WriteLine("Bertioga.");
+Thread.Sleep(1000);
+System.Console.WriteLine("Guarujá");
+Thread.Sleep(1000);
+System.Console.WriteLine("Santos.");
+Thread.Sleep(1000);
+System.Console.WriteLine("São Vicente.");
+Console.ReadKey();
